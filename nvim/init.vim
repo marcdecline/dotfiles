@@ -12,6 +12,7 @@ set relativenumber
 set laststatus=2
 set noshowmode
 set cursorline
+set guifont="JetBrainsMono Nerd Font"
 
 call plug#begin('~/.nvim/plugged')
   " Themes
